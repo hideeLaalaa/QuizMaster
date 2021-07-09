@@ -1,0 +1,42 @@
+[
+  {
+    "question": "23+25?",
+    "optionA": "43",
+    "optionB": "-2",
+    "optionC": "48",
+    "optionD": "2325",
+    "answer": 3
+  },
+  {
+    "question": "current Nigeria President?",
+    "optionA": "Bubu",
+    "optionB": "Buhari",
+    "optionC": "Adamu Garba",
+    "optionD": "Osinbajo",
+    "answer": 2
+  },
+  {
+    "question": "55-42?",
+    "optionA": "21",
+    "optionB": "18",
+    "optionC": "1",
+    "optionD": "13",
+    "answer": 4
+  },
+  {
+    "question": "Full meaning of HP?",
+    "optionA": "Hewlett Packard",
+    "optionB": "Helwell Package",
+    "optionC": "Husman Packinson",
+    "optionD": "Hot and Pretty",
+    "answer": 1
+  },
+  {
+    "question": "How many camera does the Iphone XR have?",
+    "optionA": "2",
+    "optionB": "3",
+    "optionC": "1",
+    "optionD": "4",
+    "answer": 3
+  }
+]
